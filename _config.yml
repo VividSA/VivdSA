@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Have a quick peek
     description                           : Take a look around! explore other people’s creations.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : eye
 
   - title                                 : Beyond the map
     description                           : Embark on a journey of endless discovery.
