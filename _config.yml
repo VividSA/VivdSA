@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Start  your creation 
     description                           : Unleash your creativity with a click.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : pin
     
   - title                                 : Send and share
     description                           : Spread inspiration and share your masterpiece with the world.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : paperplane
 
   - title                                 : Have a quick peek
     description                           : Take a look around! explore other people’s creations.
@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Beyond the map
     description                           : Embark on a journey of endless discovery.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : globe
 
 #  - title                                 : Easy to Tweak
 #    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
