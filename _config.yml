@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Send and share
     description                           : Spread inspiration and share your masterpiece with the world.
-    fontawesome_icon_name                 : send
+    fontawesome_icon_name                 : share
 
   - title                                 : Have a quick peek
     description                           : Take a look around! explore other people’s creations.
