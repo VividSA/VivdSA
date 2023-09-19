@@ -9,15 +9,14 @@ An app that provides a way for youth people who want to be more connected and en
 <br>
 
 <br>
-
-### **Version 1.0.3**
+### `Latest`
+# **Version 1.0.3**
 
 #### What's New
 - Improve user experience
 
 <br>
 
-### `Latest`
 # **Version 1.0.2**
 
 #### What's New
