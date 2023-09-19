@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Start  your creation 
     description                           : Unleash your creativity with a click.
-    fontawesome_icon_name                 : pin
+    fontawesome_icon_name                 : magic
     
   - title                                 : Send and share
     description                           : Spread inspiration and share your masterpiece with the world.
-    fontawesome_icon_name                 : paperplane
+    fontawesome_icon_name                 : send
 
   - title                                 : Have a quick peek
     description                           : Take a look around! explore other people’s creations.
