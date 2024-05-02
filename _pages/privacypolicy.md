@@ -38,7 +38,7 @@ You can control app permissions related to camera and location services through 
 
 ---
 
-If you have any concerns or questions about our privacy practices, please contact us at [vividapp.ada@gmail.com].
+If you have any concerns or questions about our privacy practices, please contact us at vividapp.ada@gmail.com.
 Changes to This Policy- We may update this privacy policy from time to time. Any changes will be posted here, so please review it periodically.
 Thank you for using Vivid App! 
 
