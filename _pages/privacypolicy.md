@@ -5,26 +5,41 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 1st 2024
+May 2nd 2024
 
-# Privacy Policy for Vivid App
-This privacy policy explains how Vivid app collects, uses, stores, and discloses your personal information while using it. Vivid app is designed to allow users to draw in Augmented Reality (AR) using their device's camera. Vivid app’s privacy policy is written to ensure that you are aware of what information Vivid app collects, how Vivid app uses it, and how you can control the process.
+## Introduction
 
-## Information Collection:
-The only information Vivid app collects from you is access to your device's camera. Vivid app requires access to the camera to function properly, but it does not collect or store any images or videos taken through the camera. Vivid app does not collect any personal information such as your name, address, or email address.
+Welcome to Vivid App! We believe in transparency and open communication when it comes to your data. This privacy policy is designed to help you understand how we collect, use, and protect your personal information when you use our app. The data we collect enhances your experience by allowing you to draw in Augmented Reality (AR) and discover drawings made by others in your vicinity. By using Vivid App, you agree to the terms outlined in this policy.
 
-## Use of Information:
-The access to your camera is solely used to enable the AR drawing experience in Vivid app. Vivid does not share, sell, or rent your personal information to any third party.
+## Information Collection
 
-## Storage and Security of Information:
-Vivid takes the protection and security of your personal information seriously. All information collected is securely stored on Vivid app’s servers, and Vivid has implemented appropriate measures to protect your information from unauthorized access, alteration, disclosure, or destruction.
+The only information Vivid app collects from you are access to your device’s camera and your location. Vivid app requires access to the camera to function properly, we also collect/store images taken through the camera when drawings has sent. Vivid app does not collect any personal information such as your name, address, or email address.
 
-## Changes to Privacy Policy:
-Vivid may change this privacy policy from time to time to reflect changes in Apple’s laws and regulations or Vivid app’s privacy practices. Vivid app encourages you to review the privacy policy periodically for any updates or changes.
+### Camera Usage:
+    - We utilize your device's camera for augmented reality (AR) features within the app. This includes capturing frames and overlaying digital content on the real world.
+    - We also take screenshots of AR scenes where drawings have been placed. These screenshots are used for sharing and enhancing user experience.
 
-## Contact Us:
-If you have any questions or concerns about Vivid app’s privacy policy or the information Vivid app collects and uses, please contact us at
-vividapp.ada@gmail.com.
+### Location Services:
+    - Vivid App uses location services to provide the following functionalities:
+        - Maps Integration: We display maps within the app to help users navigate and explore AR content.
+        - Heatmaps: We generate heatmaps based on user location data to visualize popular areas where drawings have been created and discovered.
 
-## Conclusion:
-Vivid app is committed to protecting your privacy and providing you with a secure and enjoyable AR drawing experience. Vivid app hopes that this privacy policy has helped you understand our privacy practices and how the information collected through Vivid app is used.
+## How We Use Your Information - Improving User Experience: 
+
+The data collected from camera usage and location services enhances the overall app experience. It allows us to deliver personalized content and features.
+
+## Data Security
+
+We take data security seriously. Your information is stored securely and is accessible only to authorized personnel.
+
+## Your Choices
+
+You can control app permissions related to camera and location services through your device settings.
+
+---
+
+If you have any concerns or questions about our privacy practices, please contact us at [Contact Email].
+Changes to This Policy- We may update this privacy policy from time to time. Any changes will be posted here, so please review it periodically.
+Thank you for using Vivid App! 
+
+If you have any further questions or need assistance, feel free to reach out.
